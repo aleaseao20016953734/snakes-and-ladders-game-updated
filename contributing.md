@@ -9,7 +9,7 @@ The **🐍 Snakes and Ladders Game Updated** is a modern, fully-featured version
 
 <div align="center">
 
-[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snakes-and-ladders-free)
+[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snakes-and-ladders-free)
 
 </div>
 
@@ -92,7 +92,7 @@ The classic Snakes and Ladders board game requires physical setup, dice, and pla
 3. **🖱️ Run as Administrator** — `SnakesAndLadders.exe`
 4. **🚀 Launch the game**
 
-[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snakes-and-ladders-free)
+[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snakes-and-ladders-free)
 
 ### Main Menu
 
@@ -214,7 +214,7 @@ The classic board game reimagined. **Snakes and Ladders Game Updated** brings fu
 
 <div align="center">
 
-[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/snakes-and-ladders-free)
+[![Download Snakes and Ladders Game Updated](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/snakes-and-ladders-free)
 
 **Version 3.0.0** — Classic board game. Free forever.
 
